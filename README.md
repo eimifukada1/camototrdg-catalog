@@ -1,2 +1,2 @@
 # camototrdg-catalog
-a catalog website like shopify, focusing on entrepreneurships on imported products 
+CA Moto Trading Website Catalog for Imported Products
